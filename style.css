@@ -1,0 +1,113 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: whitesmoke;
+}
+/*=================
+	Global Start 
+=================*/
+h2,h3,h4,h5{
+	font-family: sans-serif;
+	font-size: 1em;
+}
+h4,h5{
+	padding: 5px	;
+}
+h4{
+	color: red;
+}
+/*=================
+	Global End 
+=================*/
+/*=================
+  Upper Sec Start
+=================*/
+.identity{
+	border: 1px solid #ddd;
+	width: 250px;
+	height: 500px;
+	margin: 60px auto 60px auto;
+	border-radius: 10px;
+	box-shadow: 3px 5px 20px 0px;;
+}
+
+.clg-name{
+	font-family: sans-serif;
+	font-size: 1.5em;
+	margin-left: 10px;
+	float: right;
+}
+.abt{
+	font-family: sans-serif;
+	font-size: 1em;
+	margin-right: 18px;
+	float: right;
+}
+/*=================
+	Upper Sec End 
+=================*/
+.contents{
+	padding: 10px;
+}
+/*=================
+	Mid Sec Start 
+=================*/
+.profile-img{
+	padding: 0 0 0  25px;
+}
+.icon{
+ 
+}
+img{
+	border: 1px solid black;
+}
+b{
+	font-family: sans-serif;
+	font-size: 1.4em;
+	padding-left: 25px;
+	margin-bottom: 7px;
+	writing-mode: vertical-lr;
+}
+.ino{
+	font-family: sans-serif;
+	font-size: .5em;
+	margin-left: 23px;
+}
+.name{
+	margin: 15px;
+}
+.sign{
+	padding: 20px;
+	margin-top: 30px;
+	font-size: 12px;
+	font-weight: 400;
+}
+div span#semi-col{
+	padding-left: 10px;
+} 
+div span#value{
+	padding-left: 10px;
+} 
+/*=================
+	Mid Sec End 
+=================*/
+/*===================
+	Footer Sec Start 
+===================*/
+div label#auth{
+	padding: 5px;
+	margin-left: -10px;
+	font-family: sans-serif;
+	font-weight: 550;
+}
+div label#stud{
+	padding: 5px;
+	margin-left: 5px;
+	font-family: sans-serif;
+	font-weight: 550;
+}
+/*===================
+	Footer Sec End 
+===================*/
